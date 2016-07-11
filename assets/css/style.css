@@ -1,0 +1,88 @@
+
+.inner >h3{
+  color:white;
+  font-weight: bold;
+  padding-left:20px;
+}
+
+.inner >h6{
+  color:white;
+  font-weight: bold;
+    padding-left:20px;
+}
+.more_1
+{
+bottom: 0px;
+position: absolute;
+width: 100%;
+margin-bottom: -17px;
+background-color:#00A3CB;
+text-align:center;
+padding:5px;
+color:#fff;
+}
+
+.more_2
+{
+bottom: 0px;
+position: absolute;
+width: 100%;
+margin-bottom: -17px;
+background-color:#008D4D;
+text-align:center;
+padding:5px;
+color:#fff;
+}
+
+.more_3
+{
+bottom: 0px;
+position: absolute;
+width: 100%;
+margin-bottom: -17px;
+background-color:#CF850F;
+text-align:center;
+padding:5px;
+color:#fff;
+}
+
+.more >a
+{
+text-align: center;
+color:#fff;
+font-size:12px;
+
+
+}
+.more_info
+{
+padding:5px;
+font-size: 14px !important;
+}
+.stats_icon
+{
+float:right;
+padding-right:10px;
+color:#fff;
+
+}
+
+#container
+{
+margin-top:50px;
+}
+
+#grid
+{
+  font-family: arial;
+font-size: 11px;
+}
+.DTTT_container
+{
+
+  margin-top:15px;
+}
+
+#grid_length{
+  display:none;
+}
